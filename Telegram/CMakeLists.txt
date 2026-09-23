@@ -2370,7 +2370,7 @@ else()
 endif()
 
 if (build_macstore)
-    set(bundle_identifier "org.telegram.desktop")
+    set(bundle_identifier "org.hypergram.desktop")
     set(bundle_entitlements "Telegram Lite.entitlements")
     set(output_name "Telegram Lite")
     target_link_options(Telegram

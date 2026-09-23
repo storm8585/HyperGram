@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component type="desktop">
-    <id>org.telegram.desktop</id>
+    <id>org.hypergram.desktop</id>
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>GPL-3.0</project_license>
-    <name>Telegram</name>
+    <name>Hypergram</name>
     <summary>New era of messaging</summary>
     <description>
         <p>Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 500 million active users.</p>
@@ -23,7 +23,7 @@
         <category>Network</category>
         <category>InstantMessaging</category>
     </categories>
-    <developer id="org.telegram"><name>Telegram FZ-LLC</name></developer>
+    <developer id="org.hypergram"><name>Hypergram LLC</name></developer>
     <url type="homepage">https://desktop.telegram.org/</url>
     <url type="faq">https://telegram.org/faq</url>
     <url type="bugtracker">https://github.com/telegramdesktop/tdesktop/issues</url>

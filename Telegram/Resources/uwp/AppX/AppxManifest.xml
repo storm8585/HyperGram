@@ -12,9 +12,9 @@
     Publisher="CN=536BC709-8EE1-4478-AF22-F0F0F26FF64A"
     Version="7.2.9.0" />
   <Properties>
-    <DisplayName>Telegram Desktop</DisplayName>
-    <PublisherDisplayName>Telegram Messenger LLP</PublisherDisplayName>
-    <Description>Telegram Desktop official messenger</Description>
+    <DisplayName>Hypergram</DisplayName>
+    <PublisherDisplayName>Hypergram LLC</PublisherDisplayName>
+    <Description>Hypergram official messenger</Description>
     <Logo>Assets\logo\logo.png</Logo>
   </Properties>
   <Resources>

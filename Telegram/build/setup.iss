@@ -1,8 +1,8 @@
-#define MyAppShortName "Telegram"
-#define MyAppName "Telegram Desktop"
-#define MyAppPublisher "Telegram FZ-LLC"
+#define MyAppShortName "Hypergram"
+#define MyAppName "Hypergram"
+#define MyAppPublisher "Hypergram LLC"
 #define MyAppURL "https://desktop.telegram.org"
-#define MyAppExeName "Telegram.exe"
+#define MyAppExeName "Hypergram.exe"
 #define MyAppId "53F49750-6209-4FBF-9CA8-7A333C87D1ED"
 #define CurrentYear GetDateTimeString('yyyy','','')
 
