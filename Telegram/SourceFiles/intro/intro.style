@@ -32,7 +32,7 @@ introCoverTitle: FlatLabel(defaultFlatLabel) {
 	textFg: introTitleFg;
 	align: align(center);
 	style: TextStyle(defaultTextStyle) {
-		font: font(22px semibold);
+		font: font(26px semibold);
 	}
 }
 introCoverTitleTop: 136px;
@@ -78,9 +78,9 @@ introCoverDuration: 200;
 
 introNextButton: RoundButton(defaultActiveButton) {
 	width: 300px;
-	height: 42px;
-	radius: 6px;
-	textTop: 11px;
+	height: 48px;
+	radius: 24px;
+	textTop: 13px;
 	style: TextStyle(semiboldTextStyle) {
 		font: font(boxFontSize semibold);
 	}
